@@ -1,7 +1,7 @@
 # PokerHand_Generator
 
-[x] Sprint 1
+[x] Sprint 1 
 
-Sprint [2
+[x] Sprint 2
 
-Sprint [3]]
+[x] Sprint 3
